@@ -1,5 +1,12 @@
 # Verificación y Validación del Software 2021
-GRUPO IWx-4x ``<- Modificar``
+GRUPO IWT-41 - 02
+
+Larios Susín, Sandra
+Martín Díaz, Víctor
+Martín Fernández, Daniel
+Petitdemange, Louis
+Seoane Alfonso, Álvaro
+Tan-Giudici, Line
 
 ## Instrucciones para utilizar este proyecto
 
