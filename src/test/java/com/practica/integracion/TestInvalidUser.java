@@ -73,7 +73,7 @@ public class TestInvalidUser {
 		ordered.verify(mockGenericDao).updateSomeData(null, validData);
 	}
 
-	//en el método deletedRemoteSystem se sobreescribe la variable de idUser pasada por parámetro
+	//en el método deleteRemoteSystem se sobreescribe la variable de idUser pasada por parámetro
 	//por lo que no hacen falta pruebas con usuario no valido
 
 }
